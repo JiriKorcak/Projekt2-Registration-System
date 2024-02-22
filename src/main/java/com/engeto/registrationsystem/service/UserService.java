@@ -192,5 +192,5 @@ public class UserService {
         else result = ("Uživatele se nepodařilo smazat!");
         return result;
     }
-    
+
 }
