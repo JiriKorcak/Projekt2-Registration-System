@@ -47,11 +47,6 @@ public class UserService {
         return personIdList;
     }
 
-//    private String getPersonId(int i) throws RegistrationException {
-//        List<String> personIdList = loadFromFile("dataPersonId.txt");
-//        return personIdList.get(i);
-//    }
-
     public String getNewPersonId() throws RegistrationException {
         int index = 0;
         List<String> personIdList = getPersonIdList();
