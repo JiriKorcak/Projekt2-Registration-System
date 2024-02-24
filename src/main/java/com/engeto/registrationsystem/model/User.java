@@ -1,6 +1,5 @@
 package com.engeto.registrationsystem.model;
 
-import com.engeto.registrationsystem.service.UserService;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
